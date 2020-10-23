@@ -1,0 +1,1 @@
+ALTER TABLE students DROP students_email;
